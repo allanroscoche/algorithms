@@ -1,0 +1,10 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "algoritms implementation repository",
+  "main": "index.js",
+  "repository": "git@github.com:allanroscoche/algorithms.git",
+  "author": "allanroscoche@gmail.com",
+  "license": "MIT",
+  "private": false
+}
