@@ -1,0 +1,4 @@
+[user]
+  name = Allan Roscoche
+[url "allan-github"]
+  insteadOf = git@github.com
